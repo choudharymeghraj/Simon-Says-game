@@ -1,1 +1,2 @@
-    TO WATCH LIVE PREVIEW - CLICK ON https://simonssagame.netlify.app/
+[Live Demo](https://simonssagame.netlify.app/)
+    T
